@@ -4,7 +4,7 @@
   "description": "sample app for using mysql with node",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moment": "^2.24.0",
     "mongodb": "^3.5.4",
     "mysql": "^2.18.1",
